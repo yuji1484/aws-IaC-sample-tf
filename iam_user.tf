@@ -1,5 +1,5 @@
 provider "aws" {
-  region = "us-east-1"  # 必要に応じて変更
+  region = "ap-northeast-1"
 }
 
 # IAMユーザーの作成
